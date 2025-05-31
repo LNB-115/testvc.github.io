@@ -1,7 +1,7 @@
 // Load content from smith.txt file
 async function loadContent() {
   try {
-    const response = await fetch("data/smith.txt");
+    const response = await fetch("./data/smith.txt");
     const content = await response.text();
     updateContentFromText(content);
   } catch (error) {
