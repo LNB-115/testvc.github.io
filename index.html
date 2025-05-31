@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My - CV</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <div class="profile-img">
+          <img src="./img/logo.jpeg" alt="Profile Picture" id="profileImage" />
+        </div>
+        <h1 id="fullName"></h1>
+        <p id="jobTitle"></p>
+        <div class="contact-info">
+          <div class="contact-item">
+            <span>📧</span>
+            <span id="email"></span>
+          </div>
+          <div class="contact-item">
+            <span>📱</span>
+            <span id="phone"></span>
+          </div>
+          <div class="contact-item">
+            <span>📍</span>
+            <span id="address"></span>
+          </div>
+        </div>
+      </header>
+
+      <div class="main-content">
+        <aside class="sidebar">
+          <div class="section introduction">
+            <h2>Giới Thiệu</h2>
+            <p id="introduction"></p>
+          </div>
+          <div class="section skills">
+            <h2>Kỹ Năng</h2>
+            <div class="skills-grid">
+              <div class="skill-category">
+                <h3>Lập Trình</h3>
+                <div id="programmingSkills"></div>
+              </div>
+              <div class="skill-category">
+                <h3>Cơ Sở Dữ Liệu</h3>
+                <div id="databaseSkills"></div>
+              </div>
+              <div class="skill-category">
+                <h3>Công Cụ & Framework</h3>
+                <div id="toolsSkills"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="section languages">
+            <h2>Ngôn Ngữ</h2>
+            <ul id="languagesList"></ul>
+          </div>
+
+          <div class="section interests">
+            <h2>Sở Thích</h2>
+            <ul id="interestsList"></ul>
+          </div>
+        </aside>
+
+        <main class="content">
+          <!-- <div class="section">
+            <h2>Kinh Nghiệm Làm Việc</h2>
+            <div id="experienceList"></div>
+          </div> -->
+
+          <div class="section">
+            <h2>Học Vấn</h2>
+            <div id="educationList"></div>
+          </div>
+
+          <div class="section">
+            <h2>Dự Án Nổi Bật</h2>
+            <div id="projectsList"></div>
+          </div>
+
+          <div style="text-align: center; margin-top: 40px">
+            <a href="#" class="btn">Tải CV (PDF)</a>
+          </div>
+        </main>
+      </div>
+    </div>
+
+    <script src="script/script.js"></script>
+  </body>
+</html>

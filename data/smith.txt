@@ -1,0 +1,57 @@
+===== CV DATA =====
+
+THÔNG TIN CÁ NHÂN:
+- Họ tên: Lưu Nhật Bình
+- Chức vụ: Intern Backend Developer
+- Email: binhluu953348@gmail.com
+- Điện thoại: +84 xxx xxx xxx
+- Địa chỉ: Hồ Chí Minh, Việt Nam
+
+GIỚI THIỆU: 
+Tôi hiện đang là sinh viên năm 2
+
+KỸ NĂNG CHUYÊN MÔN:
+• Lập trình:
+  - JavaScript: 90%
+  - Python: 85%
+
+• Cơ sở dữ liệu:
+  - MySQL: 75%
+
+• Công cụ & Framework:
+  - Git: 90%
+  - Docker: 75%
+  - AWS: 70%
+
+KINH NGHIỆM LÀM VIỆC:
+
+HỌC VẤN:
+• Sinh Viên Công Nghệ Thông Tin | Đại Học Giao Thông Vận Tải TP.HCM (2023 - Hiện Tại)
+  - Chuyên ngành: Công Nghệ Thông Tin
+  - GPA: 3.4/4.0
+
+DỰ ÁN NỔI BẬT:
+
+1. Hệ Thống Quản Lý Bán Hàng E-Commerce (2023)
+   - Công nghệ: React, Node.js, MongoDB, Redis, AWS
+   - Mô tả: Xây dựng platform e-commerce hoàn chỉnh với tính năng thanh toán online, quản lý kho, và báo cáo thống kê real-time
+
+2. Ứng Dụng Xem Và Dự Báo Tiết (2025)
+   - Công nghệ: Vue.js, Express.js, Socket.io, Redis
+   - Mô tả: Ứng dụng giúp người dùng xem kết quả thời tiết đang xảy và sẽ xảy ra theo thời gian thực tại 1 địa điểm tìm kiếm
+   - Tính năng: Real-time collaboration, GPS
+
+NGÔN NGỮ:
+• Tiếng Việt - Bản ngữ
+• Tiếng Anh - Đọc hiểu
+
+SỞ THÍCH:
+• Lập trình Open Source
+• Đọc sách công nghệ và business
+• Chơi game (Strategy games)
+• Tham gia tech meetups
+
+THÔNG TIN BỔ SUNG:
+
+
+===== HẾT =====
